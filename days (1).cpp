@@ -1,12 +1,9 @@
 /* Name: Nathan Lindblade
 Date: February 3, 2023
-Assignment: Homework 2
-Due Date: February 6, 2023
 About this project: Shows how many days are in a month
 Assumptions: Assumes the user enters a valid year 
 
 All work below was performed by Nathan Lindblade */
-
 #include <iostream>
 #include <iomanip>
 using namespace std;
